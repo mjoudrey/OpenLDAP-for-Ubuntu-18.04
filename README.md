@@ -11,7 +11,7 @@ With setting up OpenLDAP along with phpldapadmin in **Ubuntu Server 18.04**, you
 
 1) <a href="https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-ubuntu-18-04">https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-ubuntu-18-04</a>
 2) <a href="https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-phpmyadmin-on-ubuntu-18-04">https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-phpmyadmin-on-ubuntu-18-04</a>
-3) sudo apt install samba smbldap-tools
+3) **>** sudo apt install samba smbldap-tools
 4) <a href="https://www.techrepublic.com/article/how-to-install-openldap-on-ubuntu-18-04/">https://www.techrepublic.com/article/how-to-install-openldap-on-ubuntu-18-04/</a>
-5) sudo apt-get install php7.2-ldap
+5) **>** sudo apt-get install php7.2-ldap
 6) <a href="https://www.techrepublic.com/article/how-to-install-phpldapadmin-on-ubuntu-18-04/">https://www.techrepublic.com/article/how-to-install-phpldapadmin-on-ubuntu-18-04/</a>
