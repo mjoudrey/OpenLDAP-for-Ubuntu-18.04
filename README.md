@@ -5,8 +5,8 @@ With setting up OpenLDAP along with phpldapadmin in **Ubuntu Server 18.04**, you
 
 ![Quick Rundown](https://i.imgur.com/r3W4Sz9.jpg)
 
-|**asciinema step-by-step terminal-based tutorial
-Skip 5:53 to 13:10**| 
+|**asciinema step-by-step terminal-based tutorial**|
+Feel free to skip from 5:53 to 13:10
 |-|
 <a href="https://asciinema.org/a/HC5e82L9mFl85gnsdZKRBqtKY"><img src="https://asciinema.org/a/HC5e82L9mFl85gnsdZKRBqtKY.png" width="400"/></a>
 
